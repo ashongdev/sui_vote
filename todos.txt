@@ -1,0 +1,12 @@
+Create a decentralized voting system.
+Admin can open/close votes
+Users & Admins can create votes
+   - Only the user who created the vote and the admin can end a vote.
+Winner of a vote receives an NFT token
+Voter receives a minted token
+
+Fields
+   - Name
+   - Organizer
+   - Ends
+   
